@@ -11,7 +11,7 @@ To run the app from terminal you will need Python installed on your device. Navi
 Setup
 ------
 
-You will need to populate the `all_hashtags.txt` file with hashtags that are relevant to your social media account's content. https://best-hashtags.com is a good source for collecting new hashtags. The `recent_hashtags.txt` can remain empty. Alternatively, this file can be populated with hashtags that you would like to exclude from your next post. 
+You will need to populate the `all_hashtags.txt` file with hashtags that are relevant to your social media account's content. Hashtags in the `all_hashtags.txt` file must be added in the format of [hashtag]+[space]. https://best-hashtags.com is a good source for collecting new hashtags. The `recent_hashtags.txt` can remain empty. Alternatively, this file can be populated with hashtags that you would like to exclude from your next post. 
 
 Usage
 ------
