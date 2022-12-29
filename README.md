@@ -6,7 +6,7 @@ Conveniently print hashtags for social media posts
 Run the App
 ------
 
-To run the app from terminal you will need Python installed on your device. Navigate to where the Hashtag printer directory was downloaded to your device, then use the command `python hashtags.py` to run the printer.
+To run the app from terminal you will need Python installed on your device. Navigate to where the Hashtag Printer directory was downloaded to your device, then use the command `python hashtags.py` to run the printer.
 
 Setup
 ------
