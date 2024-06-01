@@ -16,7 +16,7 @@ You will need to populate the `all_hashtags.txt` file with hashtags that are rel
 Usage
 ------
 
-Hashtag Printer will first ask for the file to select hashtags from. The full path to the desired file from your current working directory will is required. Then, hashtag printer will ask for the number of hashtags that you would like to print. Once the hashtags have been printed, just copy and paste them into your next post. 
+Hashtag Printer will first ask for the file to select hashtags from. The full path to the desired file from your current working directory is required. Then, hashtag printer will ask for the number of hashtags that you would like to print. Once the hashtags have been printed, just copy and paste them into your next post. 
 
 Installations
 ------
